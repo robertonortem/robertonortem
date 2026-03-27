@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=1000&lines=Roberto+Carlos;Data+Engineer+%7C+Automation+Specialist;Arquitetando+Dados+para+Decisão;Python+%7C+SQL+%7C+ETL+%7C+Cloud" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=1000&lines=Roberto+Carlos;Engenheiro+de+Dados+%7C+Automação;Arquitetando+Dados+para+Decisão;Python+%7C+SQL+%7C+ETL+%7C+Cloud" />
 
 <br>
 
@@ -25,7 +25,7 @@
 
 # 🧠 Sobre Mim
 
-Profissional com **+10 anos em operações e gestão**, hoje atuando fortemente como **Engenheiro de Dados**, conectando:
+Profissional com **+10 anos em operações e gestão**, atuando como Engenheiro de Dados com foco em:
 
 * 📊 Dados → Insight
 * ⚙️ Processos → Automação
@@ -39,13 +39,13 @@ Profissional com **+10 anos em operações e gestão**, hoje atuando fortemente 
 
 <div align="center">
 
-<img src="https://miro.medium.com/max/1400/1*3z4r6tR3bK7h9QvX7z4r6g.png" width="800"/>
+<img src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/data_pipeline.png" width="800"/>
 
 </div>
 
 ---
 
-## 🔄 Pipeline de Dados (Visão Técnica)
+# 🔄 Pipeline de Dados (Visão Técnica)
 
 <table>
 <tr>
@@ -99,19 +99,23 @@ Dashboards • Insights
 ## 🚍 Pipeline de Mobilidade Urbana
 
 <div align="center">
-<img src="https://images.unsplash.com/photo-1502877338535-766e1452684a" width="700"/>
+
+<img src="https://raw.githubusercontent.com/plotly/datasets/master/images/flight_paths.png" width="700"/>
+
 </div>
 
-✔️ Pipeline completo de dados com Python + SQL
-✔️ Processamento de dados GPS e previsão
-✔️ Identificação de atrasos operacionais
+✔️ Pipeline de dados com Python + SQL
+✔️ Processamento de dados de localização
+✔️ Identificação de padrões operacionais
 
 ---
 
 ## 🤖 Automação Inteligente (RPA + Selenium)
 
 <div align="center">
-<img src="https://images.unsplash.com/photo-1581090700227-1e8a9f9c7c6c" width="700"/>
+
+<img src="https://raw.githubusercontent.com/SeleniumHQ/seleniumhq.github.io/trunk/images/selenium_logo_square_green.png" width="200"/>
+
 </div>
 
 ✔️ Robôs para coleta e processamento de dados
@@ -123,7 +127,9 @@ Dashboards • Insights
 ## 📊 Analytics & BI
 
 <div align="center">
-<img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71" width="700"/>
+
+<img src="https://raw.githubusercontent.com/plotly/datasets/master/images/dashboards.png" width="700"/>
+
 </div>
 
 ✔️ Construção de indicadores
