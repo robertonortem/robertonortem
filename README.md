@@ -1,22 +1,28 @@
 Olá! Eu sou o Roberto Carlos 👋
 
-Engenheiro de Dados & Especialista em Automação
+Analista de Sistemas | Engenharia de Dados & Automação
 
-Atuo profissionalmente na área de Dados e Automação, unindo a visão estratégica de negócio com a execução técnica de alto nível. Sou apaixonado por otimizar operações, construir pipelines de dados robustos (ETL) e utilizar automação (RPA) para resolver problemas complexos e dar escala aos negócios.
+Profissional híbrido que une a visão estratégica da Administração de Empresas à capacidade técnica da Análise e Desenvolvimento de Sistemas. Atualmente, foco minha atuação técnica em estruturação de dados, construção de automações e infraestrutura tecnológica.
 
-🎓 Pós-graduando em Engenharia de Dados pela PUC Minas.
+🎓 Formação Acadêmica: * Pós-graduando em Engenharia de Dados (PUC Minas)
 
-💼 Profissional de TI especializado em Dados | Fundador da EvovE Box (Infraestrutura e Redes).
+Graduado em Análise e Desenvolvimento de Sistemas (Estácio)
 
-🎯 Foco diário: Arquitetura de Dados, Pipelines de ETL, Databricks, Python e SQL Avançado.
+Graduado em Administração de Empresas (Estácio)
 
-🤝 Procuro colaborar em projetos de dados de código aberto e arquiteturas escaláveis.
+💼 Experiência Profissional: * Analista de Sistemas (Foco em Automação e Banco de Dados)
 
-📫 Como contactar-me: Meu LinkedIn
+Fundador da EvovE Box (Infraestrutura de TI e Redes)
+
+Mais de 10 anos de experiência prévia como Gestor de Operações (RGN Construções), com foco em otimização de processos e controle financeiro.
+
+🎯 Foco Diário: Automação de tarefas manuais (Python/Selenium), extração e tratamento de dados (SQL/Pandas) e modelagem de banco de dados relacionais.
+
+📫 Contato: Conecte-se comigo no LinkedIn
 
 🛠️ Tecnologias e Ferramentas
 
-Linguagens & Base de Dados:
+Linguagens & Banco de Dados:
 
 <p>
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" />
@@ -27,8 +33,8 @@ Linguagens & Base de Dados:
 Engenharia de Dados & Cloud:
 
 <p>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Databricks-FF3621%3Fstyle%3Dfor-the-badge%26logo%3Ddatabricks%26logoColor%3Dwhite" />
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Pandas-150458%3Fstyle%3Dfor-the-badge%26logo%3Dpandas%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Databricks-FF3621%3Fstyle%3Dfor-the-badge%26logo%3Ddatabricks%26logoColor%3Dwhite" />
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Microsoft_Azure-0089D6%3Fstyle%3Dfor-the-badge%26logo%3Dmicrosoft-azure%26logoColor%3Dwhite" />
 </p>
 
@@ -40,8 +46,11 @@ Automação & Infraestrutura:
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-📊 Estatísticas do GitHub
+📊 Estatísticas do GitHub (Tempo Real)
+
+Nota: Como a maior parte do meu trabalho corporativo e de desenvolvimento de dados é realizada em repositórios privados por questões de confidencialidade e regras de negócio, os cards abaixo capturam minha atividade geral e as linguagens mais utilizadas na plataforma em tempo real.
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Drobertonortem%26show_icons%3Dtrue%26theme%3Dradical" alt="Estatísticas do Roberto" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Drobertonortem%26show_icons%3Dtrue%26theme%3Dradical%26count_private%3Dtrue" alt="Estatísticas do Roberto" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Drobertonortem%26layout%3Dcompact%26theme%3Dradical" alt="Top Linguagens" />
 </p>
