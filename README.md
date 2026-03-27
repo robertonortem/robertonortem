@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=1000&lines=Roberto+Carlos;Engenheiro+de+Dados+%7C+Automação;Arquitetando+Dados+para+Decisão;Python+%7C+SQL+%7C+ETL+%7C+Cloud" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=1000&lines=Roberto+Carlos;Engenheiro+de+Dados+%7C+Automação;Arquitetura+de+Dados+na+Prática;Python+%7C+SQL+%7C+ETL+%7C+Cloud" />
 
 <br>
 
@@ -8,7 +8,7 @@
 
 ### 🚀 Engenheiro de Dados | Automação | Analista de Sistemas
 
-<i>Transformando dados complexos em decisões estratégicas</i>
+<i>Transformando dados em decisões estratégicas</i>
 
 <br>
 
@@ -25,13 +25,12 @@
 
 # 🧠 Sobre Mim
 
-Profissional com **+10 anos em operações e gestão**, atuando como Engenheiro de Dados com foco em:
+Profissional com **+10 anos em operações**, hoje focado em Engenharia de Dados:
 
-* 📊 Dados → Insight
-* ⚙️ Processos → Automação
-* 🧠 Negócio → Tecnologia
-
-💡 *Meu foco é gerar impacto real com dados, não apenas processá-los.*
+* 📊 Data Engineering & ETL
+* ⚙️ Automação de Processos
+* 🧠 Dados → Decisão
+* ☁️ Cloud & Arquitetura
 
 ---
 
@@ -39,7 +38,7 @@ Profissional com **+10 anos em operações e gestão**, atuando como Engenheiro 
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/donnemartin/data-science-ipython-notebooks/master/images/data_pipeline.png" width="800"/>
+<img src="https://skillicons.dev/icons?i=python,postgres,mysql,azure,linux" />
 
 </div>
 
@@ -53,7 +52,7 @@ Profissional com **+10 anos em operações e gestão**, atuando como Engenheiro 
 
 ### 📥 Ingestão
 
-<img src="https://cdn-icons-png.flaticon.com/512/1048/1048953.png" width="60"/>
+<img src="https://skillicons.dev/icons?i=python" width="50"/>
 
 APIs • Scraping • Arquivos
 
@@ -63,9 +62,9 @@ APIs • Scraping • Arquivos
 
 ### ⚙️ Processamento
 
-<img src="https://cdn-icons-png.flaticon.com/512/4149/4149670.png" width="60"/>
+<img src="https://skillicons.dev/icons?i=linux" width="50"/>
 
-Limpeza • Validação • ETL
+ETL • Limpeza • Validação
 
 </td>
 
@@ -73,7 +72,7 @@ Limpeza • Validação • ETL
 
 ### 🧱 Modelagem
 
-<img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="60"/>
+<img src="https://skillicons.dev/icons?i=postgres" width="50"/>
 
 SQL • Data Warehouse
 
@@ -83,7 +82,7 @@ SQL • Data Warehouse
 
 ### 📊 Consumo
 
-<img src="https://cdn-icons-png.flaticon.com/512/1828/1828919.png" width="60"/>
+<img src="https://skillicons.dev/icons?i=azure" width="50"/>
 
 Dashboards • Insights
 
@@ -98,15 +97,9 @@ Dashboards • Insights
 
 ## 🚍 Pipeline de Mobilidade Urbana
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/plotly/datasets/master/images/flight_paths.png" width="700"/>
-
-</div>
-
-✔️ Pipeline de dados com Python + SQL
-✔️ Processamento de dados de localização
-✔️ Identificação de padrões operacionais
+✔️ Pipeline completo com Python + SQL
+✔️ Tratamento e análise de dados operacionais
+✔️ Identificação de padrões e gargalos
 
 ---
 
@@ -114,26 +107,20 @@ Dashboards • Insights
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/SeleniumHQ/seleniumhq.github.io/trunk/images/selenium_logo_square_green.png" width="200"/>
+<img src="https://skillicons.dev/icons?i=selenium" />
 
 </div>
 
-✔️ Robôs para coleta e processamento de dados
-✔️ Redução de tarefas manuais
+✔️ Robôs para coleta de dados
+✔️ Automação de processos manuais
 ✔️ Integração com banco de dados
 
 ---
 
 ## 📊 Analytics & BI
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/plotly/datasets/master/images/dashboards.png" width="700"/>
-
-</div>
-
-✔️ Construção de indicadores
-✔️ Modelagem relacional
+✔️ Construção de KPIs
+✔️ Modelagem de dados
 ✔️ Apoio à decisão estratégica
 
 ---
@@ -142,7 +129,7 @@ Dashboards • Insights
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,postgres,azure,linux,git"/>
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres,azure,linux,git" />
 
 </div>
 
@@ -160,7 +147,7 @@ Dashboards • Insights
 
 ---
 
-# 📈 Atividade (Tempo Real)
+# 📈 Atividade
 
 <div align="center">
 
@@ -172,10 +159,10 @@ Dashboards • Insights
 
 # 🧩 Diferencial Profissional
 
-✔️ Forte visão de negócio
-✔️ Experiência real em operações
-✔️ Capacidade de automatizar processos complexos
-✔️ Engenharia de dados aplicada a problemas reais
+✔️ Visão de negócio + técnico
+✔️ Forte experiência em operações
+✔️ Automação e eficiência
+✔️ Engenharia de dados aplicada
 
 ---
 
