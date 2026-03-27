@@ -1,65 +1,187 @@
 <div align="center">
-<h1>Olá! Eu sou o Roberto Carlos 👋</h1>
-<h3>Engenheiro de Dados & Automação | Analista de Sistemas</h3>
-<p><i>Profissional híbrido: Visão estratégica de Negócios 🤝 Execução técnica em Dados</i></p>
+
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=1000&lines=Roberto+Carlos;Data+Engineer+%7C+Automation+Specialist;Arquitetando+Dados+para+Decisão;Python+%7C+SQL+%7C+ETL+%7C+Cloud" />
+
+<br>
+
+# 👨‍💻 Roberto Carlos
+
+### 🚀 Engenheiro de Dados | Automação | Analista de Sistemas
+
+<i>Transformando dados complexos em decisões estratégicas</i>
+
+<br>
+
+<a href="https://www.linkedin.com/in/roberto-cs/">
+<img src="https://img.shields.io/badge/LinkedIn-Conectar-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="https://github.com/robertonortem">
+<img src="https://img.shields.io/badge/GitHub-Portfólio-black?style=for-the-badge&logo=github"/>
+</a>
+
 </div>
 
-🚀 Sobre Mim e Foco de Atuação
+---
 
-Profissional com sólida maturidade corporativa (mais de 10 anos como Gestor de Operações) atuando fortemente na consolidação como Engenheiro de Dados. Meu foco diário é a estruturação de dados, automação de rotinas e infraestrutura tecnológica, sempre visando a eficiência e os resultados do negócio.
+# 🧠 Sobre Mim
 
-🎓 Formação Acadêmica:
+Profissional com **+10 anos em operações e gestão**, hoje atuando fortemente como **Engenheiro de Dados**, conectando:
 
-Pós-graduando em Engenharia de Dados (PUC Minas)
+* 📊 Dados → Insight
+* ⚙️ Processos → Automação
+* 🧠 Negócio → Tecnologia
 
-Graduado em Análise e Desenvolvimento de Sistemas (Estácio)
+💡 *Meu foco é gerar impacto real com dados, não apenas processá-los.*
 
-Graduado em Administração de Empresas (Estácio)
+---
 
-💼 Experiência Profissional:
-
-Analista de Sistemas (Foco em Automação, Banco de Dados e Infraestrutura)
-
-Fundador da EvovE Box (Infraestrutura de TI e Redes)
-
-Mais de 10 anos como Gestor de Operações (RGN Construções) - Foco em processos e controle financeiro.
-
-🎯 Foco Diário: Automação de tarefas manuais (Python/Selenium), extração e tratamento de dados (SQL/Pandas) e modelagem de banco de dados relacionais.
-
-📫 Contato: Conecte-se comigo no LinkedIn
-
-🛠️ Tecnologias e Ferramentas
+# 🧱 Arquitetura de Engenharia de Dados
 
 <div align="center">
-<p><strong>Linguagens & Banco de Dados</strong></p>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" alt="Python"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/SQL-4479A1%3Fstyle%3Dfor-the-badge%26logo%3Dpostgresql%26logoColor%3Dwhite" alt="SQL"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/MySQL-00000F%3Fstyle%3Dfor-the-badge%26logo%3Dmysql%26logoColor%3Dwhite" alt="MySQL"/>
 
+<img src="https://miro.medium.com/max/1400/1*3z4r6tR3bK7h9QvX7z4r6g.png" width="800"/>
 
-
-
-
-<p><strong>Engenharia de Dados & Cloud</strong></p>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Pandas-150458%3Fstyle%3Dfor-the-badge%26logo%3Dpandas%26logoColor%3Dwhite" alt="Pandas"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Databricks-FF3621%3Fstyle%3Dfor-the-badge%26logo%3Ddatabricks%26logoColor%3Dwhite" alt="Databricks"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Azure-0089D6%3Fstyle%3Dfor-the-badge%26logo%3Dmicrosoft-azure%26logoColor%3Dwhite" alt="Azure"/>
-
-
-
-
-
-<p><strong>Automação & Infraestrutura</strong></p>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/RPA-005C97%3Fstyle%3Dfor-the-badge%26logo%3Drobotics%26logoColor%3Dwhite" alt="RPA"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Selenium-43B02A%3Fstyle%3Dfor-the-badge%26logo%3Dselenium%26logoColor%3Dwhite" alt="Selenium"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </div>
 
-📊 Estatísticas do GitHub (Tempo Real)
+---
 
-💡 Nota de Confidencialidade: Como a maior parte do meu trabalho corporativo e de engenharia de dados é realizada em repositórios privados (por questões de compliance e regras de negócio), os cards abaixo capturam minha atividade geral na plataforma em tempo real.
+## 🔄 Pipeline de Dados (Visão Técnica)
+
+<table>
+<tr>
+<td align="center">
+
+### 📥 Ingestão
+
+<img src="https://cdn-icons-png.flaticon.com/512/1048/1048953.png" width="60"/>
+
+APIs • Scraping • Arquivos
+
+</td>
+
+<td align="center">
+
+### ⚙️ Processamento
+
+<img src="https://cdn-icons-png.flaticon.com/512/4149/4149670.png" width="60"/>
+
+Limpeza • Validação • ETL
+
+</td>
+
+<td align="center">
+
+### 🧱 Modelagem
+
+<img src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" width="60"/>
+
+SQL • Data Warehouse
+
+</td>
+
+<td align="center">
+
+### 📊 Consumo
+
+<img src="https://cdn-icons-png.flaticon.com/512/1828/1828919.png" width="60"/>
+
+Dashboards • Insights
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# ⭐ Projetos em Destaque
+
+## 🚍 Pipeline de Mobilidade Urbana
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Drobertonortem%26show_icons%3Dtrue%26theme%3Ddracula%26count_private%3Dtrue%26hide_border%3Dtrue" alt="Estatísticas do Roberto" height="165" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Drobertonortem%26layout%3Dcompact%26theme%3Ddracula%26hide_border%3Dtrue" alt="Top Linguagens" height="165" />
+<img src="https://images.unsplash.com/photo-1502877338535-766e1452684a" width="700"/>
+</div>
+
+✔️ Pipeline completo de dados com Python + SQL
+✔️ Processamento de dados GPS e previsão
+✔️ Identificação de atrasos operacionais
+
+---
+
+## 🤖 Automação Inteligente (RPA + Selenium)
+
+<div align="center">
+<img src="https://images.unsplash.com/photo-1581090700227-1e8a9f9c7c6c" width="700"/>
+</div>
+
+✔️ Robôs para coleta e processamento de dados
+✔️ Redução de tarefas manuais
+✔️ Integração com banco de dados
+
+---
+
+## 📊 Analytics & BI
+
+<div align="center">
+<img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71" width="700"/>
+</div>
+
+✔️ Construção de indicadores
+✔️ Modelagem relacional
+✔️ Apoio à decisão estratégica
+
+---
+
+# 🛠️ Stack Tecnológica
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres,azure,linux,git"/>
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=robertonortem&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertonortem&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 📈 Atividade (Tempo Real)
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=robertonortem&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🧩 Diferencial Profissional
+
+✔️ Forte visão de negócio
+✔️ Experiência real em operações
+✔️ Capacidade de automatizar processos complexos
+✔️ Engenharia de dados aplicada a problemas reais
+
+---
+
+# 🌍 Contato
+
+* 🔗 LinkedIn: https://www.linkedin.com/in/roberto-cs/
+* 💻 GitHub: https://github.com/robertonortem
+
+---
+
+<div align="center">
+
+⚡ *Dados só têm valor quando geram decisão.*
+
 </div>
