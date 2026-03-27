@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=1000&lines=Roberto+Carlos;Engenheiro+de+Dados+%7C+Automação;Arquitetura+de+Dados+na+Prática;Python+%7C+SQL+%7C+ETL+%7C+Cloud" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=30&center=true&vCenter=true&width=900&lines=Roberto+Carlos;Engenheiro+de+Dados;Automação+%7C+ETL+%7C+Cloud;Transformando+dados+em+decisão" />
 
 <br>
 
@@ -8,7 +8,7 @@
 
 ### 🚀 Engenheiro de Dados | Automação | Analista de Sistemas
 
-<i>Transformando dados em decisões estratégicas</i>
+<i>Dados bem estruturados → decisões inteligentes</i>
 
 <br>
 
@@ -25,26 +25,33 @@
 
 # 🧠 Sobre Mim
 
-Profissional com **+10 anos em operações**, hoje focado em Engenharia de Dados:
+Profissional com **+10 anos em operações e gestão**, hoje atuando como Engenheiro de Dados com foco em geração de valor através de dados.
 
-* 📊 Data Engineering & ETL
-* ⚙️ Automação de Processos
-* 🧠 Dados → Decisão
-* ☁️ Cloud & Arquitetura
+Atuo conectando:
 
----
-
-# 🧱 Arquitetura de Engenharia de Dados
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,postgres,mysql,azure,linux" />
-
-</div>
+* 📊 Dados → Insight
+* ⚙️ Processos → Automação
+* 🧠 Negócio → Tecnologia
 
 ---
 
-# 🔄 Pipeline de Dados (Visão Técnica)
+# 🧱 Arquitetura de Trabalho
+
+```text
+Ingestão → Processamento → Modelagem → Consumo
+
+APIs / Scraping
+        ↓
+ ETL / Limpeza / Validação
+        ↓
+ Banco de Dados / Data Warehouse
+        ↓
+ Dashboards / Insights / Decisão
+```
+
+---
+
+# ⚙️ Pipeline Técnico
 
 <table>
 <tr>
@@ -52,9 +59,7 @@ Profissional com **+10 anos em operações**, hoje focado em Engenharia de Dados
 
 ### 📥 Ingestão
 
-<img src="https://skillicons.dev/icons?i=python" width="50"/>
-
-APIs • Scraping • Arquivos
+Python • APIs • Scraping
 
 </td>
 
@@ -62,9 +67,7 @@ APIs • Scraping • Arquivos
 
 ### ⚙️ Processamento
 
-<img src="https://skillicons.dev/icons?i=linux" width="50"/>
-
-ETL • Limpeza • Validação
+ETL • Pandas • Automação
 
 </td>
 
@@ -72,9 +75,7 @@ ETL • Limpeza • Validação
 
 ### 🧱 Modelagem
 
-<img src="https://skillicons.dev/icons?i=postgres" width="50"/>
-
-SQL • Data Warehouse
+SQL • Relacional • Performance
 
 </td>
 
@@ -82,9 +83,7 @@ SQL • Data Warehouse
 
 ### 📊 Consumo
 
-<img src="https://skillicons.dev/icons?i=azure" width="50"/>
-
-Dashboards • Insights
+BI • KPIs • Estratégia
 
 </td>
 
@@ -95,74 +94,49 @@ Dashboards • Insights
 
 # ⭐ Projetos em Destaque
 
-## 🚍 Pipeline de Mobilidade Urbana
+## 🚍 Pipeline de Dados Operacionais
 
-✔️ Pipeline completo com Python + SQL
-✔️ Tratamento e análise de dados operacionais
-✔️ Identificação de padrões e gargalos
-
----
-
-## 🤖 Automação Inteligente (RPA + Selenium)
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=selenium" />
-
-</div>
-
-✔️ Robôs para coleta de dados
-✔️ Automação de processos manuais
-✔️ Integração com banco de dados
+* Construção de pipelines ETL completos
+* Tratamento e padronização de dados
+* Identificação de padrões e gargalos
 
 ---
 
-## 📊 Analytics & BI
+## 🤖 Automação de Processos
 
-✔️ Construção de KPIs
-✔️ Modelagem de dados
-✔️ Apoio à decisão estratégica
+* Robôs com Python e Selenium
+* Redução de tarefas manuais
+* Integração com banco de dados
+
+---
+
+## 📊 Análise e Indicadores
+
+* Criação de KPIs estratégicos
+* Modelagem de dados
+* Apoio à tomada de decisão
 
 ---
 
 # 🛠️ Stack Tecnológica
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,mysql,postgres,azure,linux,git" />
-
-</div>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=robertonortem&show_icons=true&theme=tokyonight&count_private=true&hide_border=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robertonortem&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Atividade
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=robertonortem&theme=tokyo-night&hide_border=true"/>
-
-</div>
+```text
+Linguagens: Python | SQL  
+Dados: Pandas | ETL | Data Modeling  
+Banco: MySQL | PostgreSQL  
+Cloud: Azure  
+Infra: Linux  
+Automação: Selenium | RPA  
+```
 
 ---
 
 # 🧩 Diferencial Profissional
 
 ✔️ Visão de negócio + técnico
-✔️ Forte experiência em operações
-✔️ Automação e eficiência
-✔️ Engenharia de dados aplicada
+✔️ Experiência real em operações
+✔️ Automação de processos complexos
+✔️ Engenharia de dados aplicada a problemas reais
 
 ---
 
